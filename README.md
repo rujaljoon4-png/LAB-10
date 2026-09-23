@@ -1,1 +1,7 @@
-# LAB-10
+This repository contains my Day 10 practical laboratory work for the Generative AI for Business course as a BBA Aviation Management student. The lab focuses on AI image generation and the use of structured prompts to create professional aviation-related visuals.
+
+The activity introduces the difference between image generation and image retrieval and explains how Generative AI can create new visuals from text prompts. A five-part image-prompt structure is used, consisting of Subject, Medium or Style, Environment, Lighting and Aspect Ratio. The lab demonstrates how these elements can improve the clarity, realism and suitability of an aviation visual.
+
+The project begins with a weak prompt and compares its output with a structured prompt for an airport self-service technology scene. It then applies single-variable refinement by changing only one element at a time, such as style, lighting, aspect ratio and environment. This process helps identify the effect of individual prompt changes and understand prompt bleed.
+
+The lab also includes prompt-bleed correction, aviation-accuracy and professionalism audits, and the creation of three aviation visuals for marketing, passenger awareness and presentation purposes. Ethical and responsible-use checks address logos, personal information, stereotypes, safety information and misleading visuals. Peer review, reflection and GitHub documentation complete the activity.
